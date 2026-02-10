@@ -21,4 +21,4 @@ def retro_cursor_type(text, delay=0.08):
 # Example usage:
 retro_cursor_type("C:\\> ESTABLISHING CONNECTION...")
 
-#Credits to Google Gemini
+# Credits to Google Gemini
